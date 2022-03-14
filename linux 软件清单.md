@@ -318,6 +318,7 @@
 * Quixel Bridge （2D&3D资产管理）[相关网址](https://quixel.com/bridge)
 ---
 ## R
+* Ren'Py （galgame 游戏引擎）[相关网址](https://www.renpy.org)
 * RIFE （视频插帧）[相关网址](https://github.com/hzwer/arXiv2020-RIFE)
 * rife-ncnn-vulkan （RIFE 的 ncnn 实现）[相关网址](https://github.com/nihui/rife-ncnn-vulkan)
 * RustDesk （远程控制）[相关网址](http://rustdesk.com)
@@ -334,6 +335,7 @@
 * Runway ML（创意工作的机器学习辅助）[相关网址](https://runwayml.com)
 ---
 ## S
+* Shutter （多功能截图）[相关网址](https://shutter-project.org)
 * Steam++ （steam 工具箱）[相关网址](https://github.com/SteamTools-Team/SteamTools)
 * Spriter （2d 游戏动画制作）[相关网址](https://brashmonkey.com)
 * Spine （2D 骨骼动画编辑工具）[相关网址](http://esotericsoftware.com)
