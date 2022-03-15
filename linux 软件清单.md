@@ -154,6 +154,7 @@
 * Free Music Instrument Tuner （乐器辅助调音）[相关网址](https://www.musicstore.com)
 ---
 ## G
+* GraphicsMagick （图形图像处理系统）[相关网址](http://www.graphicsmagick.org)
 * GDevelop （2D游戏引擎）[相关网址](https://gdevelop-app.com)
 * Gespeaker （Gespeak GUI 语音合成TTS）[相关网址](https://github.com/muflone/gespeaker)
 * GoldenDict （查词翻译）[相关网址](https://github.com/goldendict/goldendict)
@@ -196,7 +197,7 @@
 * instant-meshes（模型重拓扑）[相关网址](https://github.com/wjakob/instant-meshes)
 * inkscape （矢量绘图工作站）[相关网址](https://inkscape.org)
 * ieaseMusic （聚合音乐播放）[相关网址](https://github.com/trazyn/ieaseMusic)
-* ImageMagik （图像编辑转换）[相关网址](https://imagemagick.org)
+* ImageMagick （图形图像处理系统）[相关网址](https://imagemagick.org)
 * itch.io （独立游戏内容数字商店）[相关网址](https://itch.io)
 ---
 ## J
@@ -276,6 +277,7 @@
 * NATROR （视频后期及特效合成）[相关网址](https://natrongithub.github.io)
 ---
 ## O
+* OpenCV （开源计算机视觉库）[相关网址](https://opencv.org)
 * OpenToonz （动画制作）[相关网址](https://opentoonz.github.io/e/index.html)
 * Orx （2D 游戏引擎）[相关网址](http://orx-project.org)
 * Ogre （图形引擎）[相关网址](https://www.ogre3d.org)
