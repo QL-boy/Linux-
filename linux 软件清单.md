@@ -217,8 +217,10 @@
 * Kantu （桌面网页自动化）[相关网址](https://ui.vision)
 ---
 ## L
+* libGDX （JAVA 游戏开发框架）[相关网址](https://libgdx.com)
+* LabVIEW （图形化编程环境）[相关网址](https://www.ni.com/zh-cn/shop/labview.html)
 * love2d （Lua 2D 游戏引擎）[相关网址](https://github.com/love2d/love)
-* Lokalize （翻译编辑器）[相关网址](https://github.com/KDE/lokalize)
+* Lokalize （软件语言本地化翻译）[相关网址](https://github.com/KDE/lokalize)
 * LibrePCB （集成电路设计）[相关网址](https://librepcb.org)
 * libgdx （java游戏开发框架）[相关网址](https://libgdx.badlogicgames.com)
 * Laverna （私密笔记）[相关网址](https://laverna.cc)
@@ -277,6 +279,7 @@
 * NATROR （视频后期及特效合成）[相关网址](https://natrongithub.github.io)
 ---
 ## O
+* OpenBoard （白板）[相关网址](https://github.com/OpenBoard-org/OpenBoard)
 * OpenCV （开源计算机视觉库）[相关网址](https://opencv.org)
 * OpenToonz （动画制作）[相关网址](https://opentoonz.github.io/e/index.html)
 * Orx （2D 游戏引擎）[相关网址](http://orx-project.org)
@@ -292,7 +295,7 @@
 ## P
 * PFTrack （视频相机反求跟踪）[相关网址](https://www.thepixelfarm.co.uk/pftrack)
 * Pitivi （视频编辑）[相关网址](http://www.pitivi.org)
-* Poedit （翻译编辑器）[相关网址](https://poedit.net)
+* Poedit （软件语言本地化翻译）[相关网址](https://poedit.net)
 * PPSSPP （PSP模拟器）[相关网址](http://www.ppsspp.org)
 * PureRef （屏幕贴图）[相关网址](https://www.pureref.com/index.php)
 * PyCharm （Python IDE）[相关网址](https://www.jetbrains.com/pycharm)
@@ -405,6 +408,8 @@
 * Visual Studio Code （文本代码编辑器）[相关网址](https://code.visualstudio.com)
 ---
 ## W
+* Weylus （数位屏扩展支持）[相关网址](https://github.com/H-M-H/Weylus)
+* Winetricks （Wine 辅助解决方案）[相关网址](https://github.com/Winetricks/winetricks)
 * wick editor  （创建 2D 游戏、动画以及介于两者之间的所有内容！）[相关网址](https://www.wickeditor.com/#)
 * Wordless （语料库工具）[相关网址](https://github.com/BLKSerene/Wordless)
 * WPS （office替补）[相关网址](https://www.wps.com)
@@ -416,6 +421,7 @@
 * WordMark （Markdown编辑与博客客户端）[相关网址](https://wordmarkapp.com)
 ---
 ## X
+* Xournal++ （手写笔记）[相关网址](https://github.com/xournalpp/xournalpp)
 * Xmind （思维导图）[相关网址](https://www.xmind.net)
 * XX-Net （web代理）[相关网址](https://github.com/XX-net/XX-Net)
 * Xara Extreme （图像绘制）[相关网址](http://www.xaraxtreme.org)
@@ -425,6 +431,7 @@
 * Xtreme Download Manager （下载工具）[相关网址](https://github.com/subhra74/xdm)
 ---
 ## Y
+* YesPlayMusic （第三方网易云客户端）[相关网址](https://github.com/qier222/YesPlayMusic)
 * Yosoro （Markdown编辑）[相关网址](https://yosoro.coolecho.net)
 * Yandex  （网络浏览器）[相关网址](https://browser.yandex.com)
 * Yu Writer （Markdown写作）[相关网址](https://ivarptr.github.io/yu-writer.site)
@@ -432,6 +439,7 @@
 * Youtube-dl-gui（网站视频下载）[相关网址](http://mrs0m30n3.github.io/youtube-dl-gui)
 ---
 ## Z
+* Zeal （离线开发文档大全）[相关网址](https://github.com/zealdocs/zeal)
 * ZY Player （聚合视频资源播放器）[相关网址](http://zyplayer.fun)
 * Zettlr （Markdown编辑器）[相关网址](https://www.zettlr.com)
 * ZeroTier （内网穿透）[相关网址](https://www.zerotier.com)
@@ -458,8 +466,12 @@
 * 蓝眼网盘 （云储存）[相关网址](https://tank-doc.eyeblue.cn)
 ---
 ## m
+* 妙笔/WonderPen （写作软件）[相关网址](https://www.tominlab.com/wonderpen)
 * 米聊 （社交通讯）[相关网址](www.miliao.com)
 * 墨者写作（码字创作）[相关网址](https://www.mozhes.com)
+---
+## o
+* 欧奥PicHome （图片展示门户）[相关网址](https://oaooa.com/pichome.html)
 ---
 ## s
 * 搜狗输入法 （输入法）[相关网址](https://pinyin.sogou.com)
