@@ -52,6 +52,8 @@
 * AMD Radeon ProRender （AMD GPU 物理渲染引擎）[相关网址](https://www.amd.com/de/technologies/radeon-prorender)
 ---
 ## B
+* Barrier （共享输入设备（多设备共享键鼠））[相关网址](https://github.com/debauchee/barrier)
+* BricsCAD （2D 3D计算机辅助制图）[相关网址](https://www.bricsys.com)
 * Birdfont （创建和编辑字体）[相关网址](https://birdfont.org)
 * BlueGriffon （网页、电子书编辑器）[相关网址](http://bluegriffon.org)
 * Brasero （光盘刻录）[相关网址](https://wiki.gnome.org/Apps/Brasero)
@@ -122,6 +124,7 @@
 * Double Commander （双栏文件管理器）[相关网址](https://doublecmd.sourceforge.io)
 ---
 ## E
+* Edge （网络浏览器）[相关网址](https://www.microsoft.com/zh-cn/edge)
 * Enve（制作 2D 动画）[相关网址](https://maurycyliebner.github.io)
 * eSpeak  （语音合成TTS）[相关网址](http://espeak.sourceforge.net)
 * ekho/余音 （语音合成TTS）[相关网址](https://github.com/hgneng/ekho)
@@ -140,7 +143,7 @@
 * Feh （图像查看）[相关网址](https://feh.finalrewind.org)
 * Firefox（网络浏览器）[相关网址](https://www.mozilla.org/de/firefox/new)
 * FlareGet （下载工具）[相关网址](https://flareget.com)
-* FreeCAD （CAD建模）[相关网址](https://www.freecadweb.org)
+* FreeCAD （2D 3D计算机辅助制图）[相关网址](https://www.freecadweb.org)
 * FreeMind （思维导图）[相关网址](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
 * Freeplane （思维导图）[相关网址](https://www.freeplane.org/wiki/index.php/Home)
 * Flowblade （视频编辑）[相关网址](http://jliljebl.github.io/flowblade/index.html)
@@ -231,7 +234,7 @@
 * Aegisub （字幕编辑制作）[相关网址](http://www.aegisub.org)
 * Lightworks （视频创作包）[相关网址](https://www.lwks.com)
 * LilyPond （音乐乐谱制作）[相关网址](http://lilypond.org)
-* LibreCAD  （2D CAD制图）[相关网址](https://librecad.org)
+* LibreCAD  （2D 计算机辅助制图）[相关网址](https://librecad.org)
 * LyX （LaTeX 渲染文档编辑）[相关网址](https://www.lyx.org)
 * LightZone （数字摄影后期）[相关网址](http://www.lightzoneproject.org)
 * LAssistant （安卓手机管理）[相关网址](https://github.com/xsjqqq123/LAssistant)
@@ -279,6 +282,8 @@
 * NATROR （视频后期及特效合成）[相关网址](https://natrongithub.github.io)
 ---
 ## O
+* ONLYOFFICE （数字办公套件）[相关网址](https://www.onlyoffice.com)
+* OpenSCAD （实体3D CAD）[相关网址](http://openscad.org)
 * OpenBoard （白板）[相关网址](https://github.com/OpenBoard-org/OpenBoard)
 * OpenCV （开源计算机视觉库）[相关网址](https://opencv.org)
 * OpenToonz （动画制作）[相关网址](https://opentoonz.github.io/e/index.html)
@@ -313,6 +318,7 @@
 * Persepolis Download Manager （Aria 2 下载器GUI）[相关网址](https://persepolisdm.github.io)
 ---
 ## Q
+* QCAD （计算机辅助制图）[相关网址](https://qcad.org)
 * QuickCut （视频工具箱）[相关网址](https://github.com/HaujetZhao/QuickCut)
 * QQ （社交聊天）[相关网址](https://im.qq.com)
 * Qmmp （音乐播放器）[相关网址](http://qmmp.ylsoftware.com)
@@ -340,6 +346,7 @@
 * Runway ML（创意工作的机器学习辅助）[相关网址](https://runwayml.com)
 ---
 ## S
+* SolveSpace （参数化3D CAD）[相关网址](https://solvespace.com)
 * Shutter （多功能截图）[相关网址](https://shutter-project.org)
 * Steam++ （steam 工具箱）[相关网址](https://github.com/SteamTools-Team/SteamTools)
 * Spriter （2d 游戏动画制作）[相关网址](https://brashmonkey.com)
@@ -480,6 +487,7 @@
 * 腾讯视频 （在线视频）[相关网址](https://v.qq.com)
 ---
 ## w
+* 文件蜈蚣 （网络文件下载）[相关网址](http://www.filecxx.com)
 * 为知笔记（笔记软件）[相关网址](https://www.wiz.cn)
 * 网易云音乐（在线音乐平台）[相关网址](https://music.163.com)
 ---
