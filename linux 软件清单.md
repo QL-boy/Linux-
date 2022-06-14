@@ -1,4 +1,5 @@
 # 优雅的迁移到linux
+
 ```
 待完善中~
 图标
@@ -9,18 +10,32 @@
 适用平台
 官网链接(没有的话链接至相关度最高的网站)
 ```
+
 ---
+
 ## 1
+
 * 1Password （密码管理器）[相关网址](https://1password.com)
+
 ---
+
 ## 3
+
 * 3DCOAT （3D数字雕刻）[相关网址](https://3dcoat.com)
 * 3D Object Converter（3D文件格式转换器）[相关网址](http://www.i3dconverter.com)
+
 ---
+
 ## 7
+
 * 7-zip （压缩解压缩工具）[相关网址](https://www.7-zip.org)
+
 ---
+
 ## A
+
+* Asset Forge（创建 3D 或 2D 精灵）[相关网址](https://assetforge.io)
+* Apifox （API 全流程集成工具）[相关网址](https://www.apifox.cn)
 * AnimeEffects （2D 动画工具）[相关网址](http://animeeffects.org)
 * Aliyundrive-webdav （阿里云盘 WebDAV 服务）[相关网址](https://github.com/messense/aliyundrive-webdav)
 * Asset Ninja （2D&3D资产管理）[相关网址](https://assetninja.art)
@@ -50,8 +65,13 @@
 * Ao （第三方 Microsoft To-Do 客户端）[相关网址](https://klaussinani.tech/ao)
 * Armory 3D Game Engine （实时3D游戏引擎）[相关网址](https://armory3d.org)
 * AMD Radeon ProRender （AMD GPU 物理渲染引擎）[相关网址](https://www.amd.com/de/technologies/radeon-prorender)
+
 ---
+
 ## B
+
+* Bespoke （节点合成器音乐）[相关网址](https://www.bespokesynth.com)
+* Blockbench （低多边形 low-poly 建模）[相关网址](https://www.blockbench.net)
 * Barrier （共享输入设备（多设备共享键鼠））[相关网址](https://github.com/debauchee/barrier)
 * BricsCAD （2D 3D计算机辅助制图）[相关网址](https://www.bricsys.com)
 * Birdfont （创建和编辑字体）[相关网址](https://birdfont.org)
@@ -70,8 +90,15 @@
 * BaiduPCS-Web （百度网盘下载工具）[相关网址](https://github.com/liuzhuoling2011/baidupcs-web)
 * Blender Benchmark （硬件渲染测试平台）[相关网址](http://www.blenchmark.com)
 * Black Magic Fusion （视频后期与特效处理）[相关网址](http://www.blackmagicdesign.com/products/fusion)
+
 ---
+
 ## C
+
+* Cypht （邮件客户端）[相关网址](https://cypht.org)
+* CLAVICULA （VR 建模）[相关网址](https://www.neobarok.com)
+* Clonezilla （系统备份还原）[相关网址](https://clonezilla.org)
+* CodeTyphon Studio（可视化编程开发）[相关网址](https://www.pilotlogic.com/sitejoom)
 * Cloudreve （网盘搭建）[相关网址](https://cloudreve.org)
 * Cocos2d-x （2D 游戏引擎）[相关网址](https://www.cocos.com/products#Cocos2d-x)
 * CopyTranslator （复制翻译）[相关网址](https://github.com/CopyTranslator/CopyTranslator)
@@ -98,8 +125,11 @@
 * Cedega （linux上win兼容层|游戏）[相关网址](https://www.cedega.com)
 * Crossover （linux上win兼容层|稳定）[相关网址](https://www.codeweavers.com)
 * Cuckoo sandbox （自动恶意软件分析系统）[相关网址](https://cuckoosandbox.org)
+
 ---
+
 ## D
+
 * DAIN （视频补帧）[相关网址](https://github.com/baowenbo/DAIN)
 * dain-ncnn-vulkan （DAIN 的 ncnn 实现）[相关网址](https://github.com/nihui/dain-ncnn-vulkan)
 * Darling （Linux 下 MacOS 兼容层）[相关网址](https://github.com/darlinghq/darling)
@@ -122,8 +152,11 @@
 * DaVinci Resolve （视频后期处理）[相关网址](http://www.blackmagicdesign.com/products/davinciresolve)
 * DocFetcher （桌面文档内容搜索工具）[相关网址](http://docfetcher.sourceforge.net/en/index.html)
 * Double Commander （双栏文件管理器）[相关网址](https://doublecmd.sourceforge.io)
+
 ---
+
 ## E
+
 * Edge （网络浏览器）[相关网址](https://www.microsoft.com/zh-cn/edge)
 * Enve（制作 2D 动画）[相关网址](https://maurycyliebner.github.io)
 * eSpeak  （语音合成TTS）[相关网址](http://espeak.sourceforge.net)
@@ -132,8 +165,14 @@
 * Enpass（密码管理）[相关网址](https://www.enpass.io)
 * Etcher （系统镜像刻录）[相关网址](https://www.balena.io/etcher)
 * evince （多文档查看）[相关网址](https://gitlab.gnome.org/GNOME/evince)
+
 ---
+
 ## F
+
+* FamiStudio （电子音乐制作）[相关网址](https://famistudio.org)
+* Flaxengine （游戏引擎）[相关网址](https://flaxengine.com)
+* FBX2glTF （模型转换命令工具）[相关网址](https://github.com/facebookincubator/FBX2glTF)
 * Fawkes （屏蔽人脸识别）[相关网址](http://sandlab.cs.uchicago.edu/fawkes)
 * Fatedier Frp （内网穿透反向代理）[相关网址](https://github.com/fatedier/frp)
 * FreeFileSync （文件夹比较和同步）[相关网址](https://freefilesync.org)
@@ -155,8 +194,12 @@
 * FocusWriter （沉浸式写作环境）[相关网址](https://gottcode.org/focuswriter)
 * Free Download Manager （下载工具）[相关网址](https://www.freedownloadmanager.org)
 * Free Music Instrument Tuner （乐器辅助调音）[相关网址](https://www.musicstore.com)
+
 ---
+
 ## G
+
+* Goxel （体素建模）[相关网址](https://goxel.xyz)
 * GraphicsMagick （图形图像处理系统）[相关网址](http://www.graphicsmagick.org)
 * GDevelop （2D游戏引擎）[相关网址](https://gdevelop-app.com)
 * Gespeaker （Gespeak GUI 语音合成TTS）[相关网址](https://github.com/muflone/gespeaker)
@@ -186,8 +229,12 @@
 * Gamersgate （数字游戏发行平台）[相关网址](https://cn.gamersgate.com)
 * Glimpse Image Editor （GIMP分支）[相关网址](https://glimpse-editor.org)
 * Ghostscript （PostScript® 语言和 PDF 文件的解释器）[相关网址](https://www.ghostscript.com/)
+
 ---
+
 ## H
+
+* Huion Tablet（绘王数位板驱动）[相关网址](https://www.huion.cn)
 * Hozz （hosts管理）[相关网址](https://blog.zhangruipeng.me/Hozz)
 * Hugin （全景图拼接）[相关网址](http://hugin.sourceforge.net)
 * Houdini （三维特效）[相关网址](https://www.sidefx.com)
@@ -195,31 +242,46 @@
 * Hydrogen （电子鼓合成）[相关网址](http://hydrogen-music.org)
 * HeidiSQL （查看编辑运行数据库）[相关网址](https://www.heidisql.com)
 * Hashcat （高速全能密码恢复工具）[相关网址](https://hashcat.net)
+
 ---
+
 ## I
+
 * instant-meshes（模型重拓扑）[相关网址](https://github.com/wjakob/instant-meshes)
 * inkscape （矢量绘图工作站）[相关网址](https://inkscape.org)
 * ieaseMusic （聚合音乐播放）[相关网址](https://github.com/trazyn/ieaseMusic)
 * ImageMagick （图形图像处理系统）[相关网址](https://imagemagick.org)
 * itch.io （独立游戏内容数字商店）[相关网址](https://itch.io)
+
 ---
+
 ## J
+
 * Jitsi （视频会议通信）[相关网址](https://jitsi.org)
 * Jahshaka （虚拟现实视频特效）[相关网址](https://www.jahshaka.com)
 * Joplin （跨平台加密笔记本）[相关网址](https://joplinapp.org)
 * Jupyter Notebook （交互式数据科学和科学计算）[相关网址](https://jupyter.org)
+
 ---
+
 ## K
+
 * Koodo Reader （电子书阅读器）[相关网址](https://koodo.960960.xyz)
 * kicad （集成电路设计）[相关网址](https://kicad.org)
 * Kate （代码文本编辑器）[相关网址](https://kate-editor.org)
 * Krita （数字绘画）[相关网址](https://krita.org)
 * Kdenlive （视频编辑）[相关网址](https://kdenlive.org)
+* KeePass （密码管理器）[相关网址](https://keepass.info/)
 * KeePassX （密码管理）[相关网址](https://www.keepassx.org)
+* KeePassXC （密码管理器）[相关网址](https://keepassxc.org)
 * Kodi （多媒体影音播放）[相关网址](https://kodi.tv)
 * Kantu （桌面网页自动化）[相关网址](https://ui.vision)
+
 ---
+
 ## L
+
+* Lazarus（可视化编程开发）[相关网址](https://www.lazarus-ide.org)
 * libGDX （JAVA 游戏开发框架）[相关网址](https://libgdx.com)
 * LabVIEW （图形化编程环境）[相关网址](https://www.ni.com/zh-cn/shop/labview.html)
 * love2d （Lua 2D 游戏引擎）[相关网址](https://github.com/love2d/love)
@@ -245,8 +307,12 @@
 * Luminance HDR （HDR 摄影后期）[相关网址](http://qtpfsgui.sourceforge.net)
 * Linux Stopmotion （定格动画制作）[相关网址](http://linuxstopmotion.org)
 * Linux Multimedia Studio （LMMS数字音乐创作）[相关网址](https://lmms.io)
+
 ---
+
 ## M
+
+* Mailspring （邮件客户端）[相关网址](https://getmailspring.com)
 * mandelbulber2 （三维分形制作）[相关网址](https://github.com/buddhi1980/mandelbulber2)
 * MODO （3D建模综合工作站）[相关网址](https://www.foundry.com/products/modo)
 * Macast （DLNA协议投屏软件）[相关网址](https://github.com/xfangfang/Macast)
@@ -272,16 +338,22 @@
 * Minecraft/我的世界 （生存建造游戏）[相关网址](www.minecraft.net)
 * Minetest （沙盒游戏引擎）[相关网址](https://www.minetest.net)
 * Minio Cloud Storage （自建私有云存储）[相关网址](https://min.io)
+
 ---
+
 ## N
+
 * NUKE （视效合成）[相关网址](https://www.foundry.com/products/nuke)
 * NEUTRINO （AI 歌声合成）[相关网址](https://n3utrino.work)
 * Nuclear （在线音乐播放器）[相关网址](https://nuclear.js.org)
 * NetData （系统实时监控）[相关网址](https://www.netdata.cloud)
 * NoMachine （远程桌面访问）[相关网址](https://www.nomachine.com)
 * NATROR （视频后期及特效合成）[相关网址](https://natrongithub.github.io)
+
 ---
+
 ## O
+
 * ONLYOFFICE （数字办公套件）[相关网址](https://www.onlyoffice.com)
 * OpenSCAD （实体3D CAD）[相关网址](http://openscad.org)
 * OpenBoard （白板）[相关网址](https://github.com/OpenBoard-org/OpenBoard)
@@ -296,8 +368,12 @@
 * Openshot Video Editor （视频编辑）[相关网址](https://www.openshot.org)
 * Oracle VM VirtualBox （模拟虚拟机）[相关网址](https://www.virtualbox.org)
 * Open Broadcaster Software|OBS Studio （视频录制和视频实时流 ）[相关网址](https://obsproject.com)
+
 ---
+
 ## P
+
+* PixelOver （像素艺术制作）[相关网址](https://pixelover.io)
 * PFTrack （视频相机反求跟踪）[相关网址](https://www.thepixelfarm.co.uk/pftrack)
 * Pitivi （视频编辑）[相关网址](http://www.pitivi.org)
 * Poedit （软件语言本地化翻译）[相关网址](https://poedit.net)
@@ -316,8 +392,11 @@
 * PlayOnLinux （linux上win兼容层|wine辅助）[相关网址](https://www.playonlinux.com)
 * Polarr Photo Editor/泼辣修图 （图像后期处理）[相关网址](https://www.polarr.co)
 * Persepolis Download Manager （Aria 2 下载器GUI）[相关网址](https://persepolisdm.github.io)
+
 ---
+
 ## Q
+
 * QCAD （计算机辅助制图）[相关网址](https://qcad.org)
 * QuickCut （视频工具箱）[相关网址](https://github.com/HaujetZhao/QuickCut)
 * QQ （社交聊天）[相关网址](https://im.qq.com)
@@ -327,8 +406,12 @@
 * Quazaa （分布式文件共享）[相关网址](https://launchpad.net/quazaa)
 * QEMU （计算机仿真器和虚拟化器）[相关网址](https://www.qemu.org)
 * Quixel Bridge （2D&3D资产管理）[相关网址](https://quixel.com/bridge)
+
 ---
+
 ## R
+
+* Robocorp（流程自动化）[相关网址](https://robocorp.com)
 * Ren'Py （galgame 游戏引擎）[相关网址](https://www.renpy.org)
 * RIFE （视频插帧）[相关网址](https://github.com/hzwer/arXiv2020-RIFE)
 * rife-ncnn-vulkan （RIFE 的 ncnn 实现）[相关网址](https://github.com/nihui/rife-ncnn-vulkan)
@@ -343,12 +426,16 @@
 * Rosegarden （音乐创作及编辑）[相关网址](https://rosegardenmusic.com)
 * Renderman （3D图像渲染引擎）[相关网址](https://renderman.pixar.com)
 * Rambox （多协议即时通讯与Email）[相关网址](https://rambox.pro)
-* Runway ML（创意工作的机器学习辅助）[相关网址](https://runwayml.com)
+* Runway ML（人工智能视频辅助处理）[相关网址](https://runwayml.com)
+
 ---
+
 ## S
+
+* SikuliX （可视化自动化和测试）[相关网址](https://sikulix.github.io)
 * SolveSpace （参数化3D CAD）[相关网址](https://solvespace.com)
 * Shutter （多功能截图）[相关网址](https://shutter-project.org)
-* Steam++ （steam 工具箱）[相关网址](https://github.com/SteamTools-Team/SteamTools)
+* Watt Toolkit （多功能游戏工具箱）[相关网址](https://github.com/BeyondDimension/SteamTools)
 * Spriter （2d 游戏动画制作）[相关网址](https://brashmonkey.com)
 * Spine （2D 骨骼动画编辑工具）[相关网址](http://esotericsoftware.com)
 * sunvox （节点式音效合成）[相关网址](https://warmplace.ru/soft/sunvox)
@@ -377,8 +464,13 @@
 * Send Anywhere （局域网文件传输）[相关网址](https://send-anywhere.com)
 * Syncthing （去中心化文件同步与云储存）[相关网址](https://syncthing.net)
 * Sheepit renderfarm （blender 分布式渲染平台）[相关网址](https://www.sheepit-renderfarm.com)
+
 ---
+
 ## T
+
+* Timeshift （系统备份与还原）[相关网址](https://github.com/teejee2008/timeshift)
+* TagUI （桌面 Web 自动化）[相关网址](https://github.com/kelaberetiv/TagUI)
 * The-Powder-Toy （物理沙盒模拟）[相关网址](https://powdertoy.co.uk/)
 * ToDesk （远程控制）[相关网址](https://www.todesk.com)
 * Teamviewer （远程控制）[相关网址](https://www.teamviewer.com)
@@ -393,16 +485,23 @@
 * Tesseract （光学字符识别引擎）[相关网址](https://github.com/tesseract-ocr)
 * Tomahawk （流媒体聚合播放器）[相关网址](https://www.tomahawk-player.org)
 * Typora （markdown 富文本编辑器）[相关网址](https://typora.io)
+
 ---
+
 ## U
+
+* UI Vision（RPA 桌面/网页自动化）[相关网址](https://ui.vision)
 * utools （效率工具）[相关网址](https://u.tools)
 * uGet （下载工具）[相关网址](https://ugetdm.com)
 * Unity （游戏引擎）[相关网址](https://unity.com)
 * UEViewer （虚幻引擎视觉资产查看） [相关网址](https://github.com/gildor2/UEViewer)
 * Unreal Engine/虚幻引擎 （游戏引擎）[相关网址](https://www.unrealengine.com)
 * USBaudio （路由音频）[相关网址](https://github.com/rom1v/usbaudio)
+
 ---
+
 ## V
+
 * Vector （矢量编辑）[相关网址](https://vectr.com)
 * VLC （音视频播放器）[相关网址](http://www.videolan.org)
 * VIM （文本代码编辑）[相关网址](https://www.vim.org)
@@ -413,8 +512,11 @@
 * Veyon （计算机监控和教室管理）[相关网址](https://veyon.io)
 * VeraCrypt （多功能磁盘文件加密）[相关网址](https://www.veracrypt.fr)
 * Visual Studio Code （文本代码编辑器）[相关网址](https://code.visualstudio.com)
+
 ---
+
 ## W
+
 * Weylus （数位屏扩展支持）[相关网址](https://github.com/H-M-H/Weylus)
 * Winetricks （Wine 辅助解决方案）[相关网址](https://github.com/Winetricks/winetricks)
 * wick editor  （创建 2D 游戏、动画以及介于两者之间的所有内容！）[相关网址](https://www.wickeditor.com/#)
@@ -426,8 +528,11 @@
 * Wizardpen （开放式数位板驱动）[相关网址](https://launchpad.net/wizardpen)
 * Wings 3D （三维计算机多边形细分建模）[相关网址](http://www.wings3d.com)
 * WordMark （Markdown编辑与博客客户端）[相关网址](https://wordmarkapp.com)
+
 ---
+
 ## X
+
 * Xournal++ （手写笔记）[相关网址](https://github.com/xournalpp/xournalpp)
 * Xmind （思维导图）[相关网址](https://www.xmind.net)
 * XX-Net （web代理）[相关网址](https://github.com/XX-net/XX-Net)
@@ -436,66 +541,113 @@
 * xDroid（Android应用运行平台）[相关网址](https://www.linzhuotech.com/index.php/home/index/xdroid.html)
 * xWin （Windows应用运行平台）[相关网址](https://www.linzhuotech.com/index.php/home/index/xwin.html)
 * Xtreme Download Manager （下载工具）[相关网址](https://github.com/subhra74/xdm)
+
 ---
+
 ## Y
+
 * YesPlayMusic （第三方网易云客户端）[相关网址](https://github.com/qier222/YesPlayMusic)
 * Yosoro （Markdown编辑）[相关网址](https://yosoro.coolecho.net)
 * Yandex  （网络浏览器）[相关网址](https://browser.yandex.com)
 * Yu Writer （Markdown写作）[相关网址](https://ivarptr.github.io/yu-writer.site)
 * YafaRay （光线追踪渲染引擎）[相关网址](http://www.yafaray.org)
 * Youtube-dl-gui（网站视频下载）[相关网址](http://mrs0m30n3.github.io/youtube-dl-gui)
+
 ---
+
 ## Z
+
+* Zrythm （数字音频工作站）[相关网址](https://www.zrythm.org)
 * Zeal （离线开发文档大全）[相关网址](https://github.com/zealdocs/zeal)
 * ZY Player （聚合视频资源播放器）[相关网址](http://zyplayer.fun)
 * Zettlr （Markdown编辑器）[相关网址](https://www.zettlr.com)
 * ZeroTier （内网穿透）[相关网址](https://www.zerotier.com)
 * Zoommy （聚合图像搜索）[相关网址](https://zoommyapp.com)
+
 ---
+
 ## b
+
 * 百度网盘 （云储存）[相关网址](https://pan.baidu.com)
 * 百灵快传 （局域网文件传输）[相关网址](https://github.com/bitepeng/b0pass)
+
 ---
+
 ## y
+
 * 亿图图示 （综合办公绘图）[相关网址](https://www.edrawsoft.cn/edrawmax)
+
 ---
+
 ## f
+
 * 飞鸽传书 （局域网即时通讯）[相关网址](http://www.feige360.com)
 * 福昕阅读器/Foxit Reader （PDF查看标注）[相关网址](https://www.foxitsoftware.cn/pdf-reader)
+
 ---
+
 ## h
+
+* 火绒（防病毒）[相关网址](https://www.huorong.cn)
 * 后羿采集器 （通用数据爬取）[相关网址](http://www.houyicaiji.com)
+
 ---
+
 ## j
+
 * 坚果云 （云储存）[相关网址](https://www.jianguoyun.com)
+
 ---
+
 ## l
+
 * 蓝眼网盘 （云储存）[相关网址](https://tank-doc.eyeblue.cn)
+
 ---
+
 ## m
+
 * 妙笔/WonderPen （写作软件）[相关网址](https://www.tominlab.com/wonderpen)
 * 米聊 （社交通讯）[相关网址](www.miliao.com)
 * 墨者写作（码字创作）[相关网址](https://www.mozhes.com)
+
 ---
+
 ## o
+
 * 欧奥PicHome （图片展示门户）[相关网址](https://oaooa.com/pichome.html)
+
 ---
+
 ## s
+
 * 搜狗输入法 （输入法）[相关网址](https://pinyin.sogou.com)
+
 ---
+
 ## t
+
 * 腾讯视频 （在线视频）[相关网址](https://v.qq.com)
+
 ---
+
 ## w
+
 * 文件蜈蚣 （网络文件下载）[相关网址](http://www.filecxx.com)
 * 为知笔记（笔记软件）[相关网址](https://www.wiz.cn)
 * 网易云音乐（在线音乐平台）[相关网址](https://music.163.com)
+
 ---
+
 ## x
+
 * 小皮面板 PhpStudy （服务器集成环境web面板）[相关网址](https://www.xp.cn)
 * 向日葵 （远程控制）[相关网址](https://sunlogin.oray.com)
+
 ---
+
 ## y
+
 * 洋芋田图像工具箱 （图像批处理）[相关网址](https://github.com/CNOliverZhang/PotatofieldImageToolkit)
 * 亿图图示/edrawmax （图示制作）[相关网址](https://www.edrawsoft.cn/edrawmax)
 * 易云同步分享盘 （云储存）[相关网址](https://asytech.cn)
@@ -503,9 +655,15 @@
 * 有道词典 （查词与翻译）[相关网址](http://cidian.youdao.com)
 * 亿图项目管理软件/EdrawProject （项目管理）[相关网址](https://www.edrawsoft.cn/edrawproject)
 * 亿图组织架构管理软件/OrgCharting （组织架构管理）[相关网址](https://www.edrawsoft.cn/orgcharting)
+
 ---
+
 ## z
+
 * 纸小墨 （静态博客构建）[相关网址](http://www.inkpaper.io)
+
 ---
+
 ## *
+
 * μ (本地音乐播放器）[相关网址](http://kreogist.github.io/Mu/cn/index.html)
